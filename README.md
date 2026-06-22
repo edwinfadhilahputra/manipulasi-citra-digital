@@ -1,7 +1,7 @@
 # Tugas Manipulasi Citra Digital Menggunakan OpenCV
 
-* **Nama:** [Isi Nama Kamu]
-* **NIM:** [Isi NIM Kamu]
+* **Nama:** Edwin Fadhilah Putra
+* **NIM:** 452024611002
 * **Mata Kuliah:** Pengolahan Sinyal Digital
 
 ## Deskripsi Proyek
